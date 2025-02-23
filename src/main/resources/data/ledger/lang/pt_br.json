@@ -1,0 +1,78 @@
+{
+    "text.ledger.header.search.pos": "--- Procurando registros em %s ---",
+    "text.ledger.header.search": "------ Procurando registros ------",
+    "text.ledger.header.status": "------ Ledger ------",
+
+    "text.ledger.footer.search": "------- %s [Pág. %s de %s] %s -------",
+    "text.ledger.footer.page_forward": ">>",
+    "text.ledger.footer.page_forward.hover": "Próxima Página",
+    "text.ledger.footer.page_backward": "<<",
+    "text.ledger.footer.page_backward.hover": "Página Anterior",
+
+    "text.ledger.status.queue": "Fila da Database: %s",
+    "text.ledger.status.queue.busy": "Ocupado",
+    "text.ledger.status.queue.empty": "Vazio",
+    "text.ledger.status.version": "Versão: %s",
+    "text.ledger.status.discord": "Discord: %s",
+    "text.ledger.status.discord.join": "Clique para Entrar",
+    "text.ledger.status.db_type": "Tipo de Database: %s",
+    "text.ledger.status.wiki": "Wiki: %s",
+    "text.ledger.status.wiki.view": "Clique para Ver",
+
+    "text.ledger.preview.start": "Começando pre-visualização",
+
+    "text.ledger.action_message": "%1$s %2$s %3$s %4$s %5$s",
+    "text.ledger.action_message.time_diff": "%s atrás",
+    "text.ledger.action_message.location.hover": "Clique para Teleportar",
+    "text.ledger.action_message.with": "com",
+
+    "text.ledger.rollback.start": "Revertendo %s ações",
+    "text.ledger.rollback.finish": "Reversão completa",
+    "text.ledger.rollback.fail": "Falha ao reverter %s x%s",
+
+    "text.ledger.restore.start": "Restaurando %s ações",
+    "text.ledger.restore.finish": "Restauração completa",
+    "text.ledger.restore.fail": "Falha ao restaurar %s x%s",
+
+    "text.ledger.inspect.toggle": "Modo de Inspeção: %s",
+    "text.ledger.inspect.on": "Ativado",
+    "text.ledger.inspect.off": "Desativado",
+
+    "text.ledger.database.busy": "Database está ocupado no momento. Isto pode demorar um pouco",
+
+    "error.ledger.no_cached_params": "Nenhuma pesquisa no cache. Tente pre-formar a pesquisa primeiro",
+    "error.ledger.command.no_results": "Nenhum resultado para esta pesquisa",
+    "error.ledger.no_more_pages": "Não há mais páginas",
+    "error.ledger.unknown_param": "Parâmetro desconhecido %s",
+    "error.ledger.no_preview": "Nenhuma há uma pre-visualização",
+    "error.ledger.unspecific.range": "Por favor especifique uma área.",
+    "error.ledger.unspecific.range_to_big": "A área máxima é %s.",
+    "error.ledger.unspecific.source_or_time": "Por favor especifique uma fonte ou tempo (depois/after).",
+
+    "text.ledger.action.block-place": "colocado",
+    "text.ledger.action.block-break": "quebrado",
+    "text.ledger.action.block-change": "mudado",
+    "text.ledger.action.item-insert": "adicionado",
+    "text.ledger.action.item-remove": "removido",
+    "text.ledger.action.item-pick-up": "pego",
+    "text.ledger.action.item-drop": "dropado",
+    "text.ledger.action.entity-kill": "morto",
+    "text.ledger.action.entity-change": "mudado",
+
+    "text.ledger.parameter.action.description": "Filtrar por tipo de ação feita.",
+    "text.ledger.parameter.after.description": "Filtrar por tempo (depois do tempo fornecido).",
+    "text.ledger.parameter.before.description": "Filtrar por tempo (antes do tempo fornecido). Normalmente você vai querer usar o depois.",
+    "text.ledger.parameter.object.description": "Filtrar por correspondência de objeto. Pode ser um bloco, item ou entidade.",
+    "text.ledger.parameter.range.description": "Filtrar por localização (um raio quadrado da sua posição).",
+    "text.ledger.parameter.rolledback.description": "Filtrar por estado de reversão.",
+    "text.ledger.parameter.source.description": "Filtrar por fonte (nome de player ou fonte com '@').",
+    "text.ledger.parameter.world.description": "Filtrar por dimensão fornecida.",
+
+    "text.ledger.network.protocols_mismatched": "Versão de protocolos incompatível: a versão do protocolo do Ledger do cliente é:%d e a versão do cliente é %d",
+    "text.ledger.network.no_mod_info": "Unable to determine mod information for your client mod/Não foi possível determinar a informação de mod do mod do cliente",
+
+    "text.ledger.purge.starting": "------ Começando expurgação ------",
+    "text.ledger.purge.complete": "------ Expurgação completa ------",
+
+    "text.ledger.player.result": "%1$s: Entrou pela primeira vez %2$s. Entrou pela ultima vez: %3$s"
+}
