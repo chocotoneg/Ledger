@@ -69,7 +69,7 @@
     "text.ledger.parameter.world.description": "Filtrar por dimensão fornecida.",
 
     "text.ledger.network.protocols_mismatched": "Versão de protocolos incompatível: a versão do protocolo do Ledger do cliente é:%d e a versão do cliente é %d",
-    "text.ledger.network.no_mod_info": "Unable to determine mod information for your client mod/Não foi possível determinar a informação de mod do mod do cliente",
+    "text.ledger.network.no_mod_info": "Não foi possível determinar a informação de mod do mod do cliente",
 
     "text.ledger.purge.starting": "------ Começando expurgação ------",
     "text.ledger.purge.complete": "------ Expurgação completa ------",
